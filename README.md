@@ -234,6 +234,3 @@ The OLA Ride Analytics Dashboard transforms raw ride-booking data into meaningfu
 
 ![Streamlit Dashboard](https://github.com/nikil101/OLA-Rides-Inisights/blob/main/streamlit%20app%20screenshot.png)
 
----
-
-This version is GitHub-project quality and matches the style of your Dubai Housing README almost exactly.
